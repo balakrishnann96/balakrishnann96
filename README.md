@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balakrishnann96
 - 👀 I’m interested in fullstack web development,game development
-- 🌱 I’m currently learning forntend web development
-- 💞️ I’m looking to collaborate on forntend web development
+- 🌱 I’m currently learning frontend web development
+- 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me balakrishnan26102003@gmail.com
 
 <!---
